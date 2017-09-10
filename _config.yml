@@ -1,19 +1,19 @@
 # Site settings
-title: 读立写生
+title: 沉梦昂志
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: "陈素封|读而立·写而生"  
+description: "HAHAHAHAHAHAH"  
 baseurl: ""
-url: "http://cnfeat"  
+url: "http://sydgeek.github.io"  
 
 # About/contact
 owner: 
-  name: " CnFeat"
-  email: CnFeat@gmail.com
-  bio: "写就是写的报酬"
+  name: " sydgeek"
+  email: 17694286440@163.com
+  bio: "test lalala"
 
 # Data
-gavatar: http://dreamofbook.qiniudn.com/Az..png
+gavatar: 
 favicon: img/favicon.png
 
 douban_username:  
@@ -43,12 +43,12 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "CnFeat"
-      header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
+      author: "sydgeek"
+      header-img: "img/blue.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
-  provider : duoshuo
+  provider : 
   duoshuo :
     short_name : 
   disqus :
