@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "<。)#)))≦ 推"
+title: "鱼推"
 description: "吉吉国阿噗阿噗"
 header-img: "img/green.jpg"
 ---
