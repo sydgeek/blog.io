@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "鱼推"
+title: "recommendation"
 description: "吉吉国阿噗阿噗"
 header-img: "img/green.jpg"
 ---
